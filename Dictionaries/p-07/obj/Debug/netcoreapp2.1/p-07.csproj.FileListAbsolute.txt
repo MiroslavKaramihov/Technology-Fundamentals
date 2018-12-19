@@ -1,0 +1,10 @@
+D:\Project\Diktionary\p-07\bin\Debug\netcoreapp2.1\p-07.deps.json
+D:\Project\Diktionary\p-07\bin\Debug\netcoreapp2.1\p-07.runtimeconfig.json
+D:\Project\Diktionary\p-07\bin\Debug\netcoreapp2.1\p-07.runtimeconfig.dev.json
+D:\Project\Diktionary\p-07\bin\Debug\netcoreapp2.1\p-07.dll
+D:\Project\Diktionary\p-07\bin\Debug\netcoreapp2.1\p-07.pdb
+D:\Project\Diktionary\p-07\obj\Debug\netcoreapp2.1\p-07.csproj.CoreCompileInputs.cache
+D:\Project\Diktionary\p-07\obj\Debug\netcoreapp2.1\p-07.AssemblyInfoInputs.cache
+D:\Project\Diktionary\p-07\obj\Debug\netcoreapp2.1\p-07.AssemblyInfo.cs
+D:\Project\Diktionary\p-07\obj\Debug\netcoreapp2.1\p-07.dll
+D:\Project\Diktionary\p-07\obj\Debug\netcoreapp2.1\p-07.pdb

@@ -1,0 +1,11 @@
+D:\Project\Diktionary\P-10\bin\Debug\netcoreapp2.1\P-10.deps.json
+D:\Project\Diktionary\P-10\bin\Debug\netcoreapp2.1\P-10.runtimeconfig.json
+D:\Project\Diktionary\P-10\bin\Debug\netcoreapp2.1\P-10.runtimeconfig.dev.json
+D:\Project\Diktionary\P-10\bin\Debug\netcoreapp2.1\P-10.dll
+D:\Project\Diktionary\P-10\bin\Debug\netcoreapp2.1\P-10.pdb
+D:\Project\Diktionary\P-10\obj\Debug\netcoreapp2.1\P-10.csprojAssemblyReference.cache
+D:\Project\Diktionary\P-10\obj\Debug\netcoreapp2.1\P-10.csproj.CoreCompileInputs.cache
+D:\Project\Diktionary\P-10\obj\Debug\netcoreapp2.1\P-10.AssemblyInfoInputs.cache
+D:\Project\Diktionary\P-10\obj\Debug\netcoreapp2.1\P-10.AssemblyInfo.cs
+D:\Project\Diktionary\P-10\obj\Debug\netcoreapp2.1\P-10.dll
+D:\Project\Diktionary\P-10\obj\Debug\netcoreapp2.1\P-10.pdb
