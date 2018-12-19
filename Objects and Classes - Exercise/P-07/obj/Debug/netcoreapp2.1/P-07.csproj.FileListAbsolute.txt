@@ -1,0 +1,10 @@
+D:\Project\Objects and Classes - Exercise\P-07\bin\Debug\netcoreapp2.1\P-07.deps.json
+D:\Project\Objects and Classes - Exercise\P-07\bin\Debug\netcoreapp2.1\P-07.runtimeconfig.json
+D:\Project\Objects and Classes - Exercise\P-07\bin\Debug\netcoreapp2.1\P-07.runtimeconfig.dev.json
+D:\Project\Objects and Classes - Exercise\P-07\bin\Debug\netcoreapp2.1\P-07.dll
+D:\Project\Objects and Classes - Exercise\P-07\bin\Debug\netcoreapp2.1\P-07.pdb
+D:\Project\Objects and Classes - Exercise\P-07\obj\Debug\netcoreapp2.1\P-07.csproj.CoreCompileInputs.cache
+D:\Project\Objects and Classes - Exercise\P-07\obj\Debug\netcoreapp2.1\P-07.AssemblyInfoInputs.cache
+D:\Project\Objects and Classes - Exercise\P-07\obj\Debug\netcoreapp2.1\P-07.AssemblyInfo.cs
+D:\Project\Objects and Classes - Exercise\P-07\obj\Debug\netcoreapp2.1\P-07.dll
+D:\Project\Objects and Classes - Exercise\P-07\obj\Debug\netcoreapp2.1\P-07.pdb

@@ -1,0 +1,11 @@
+D:\Project\Objects and Classes - Exercise\p-06\bin\Debug\netcoreapp2.1\p-06.deps.json
+D:\Project\Objects and Classes - Exercise\p-06\bin\Debug\netcoreapp2.1\p-06.runtimeconfig.json
+D:\Project\Objects and Classes - Exercise\p-06\bin\Debug\netcoreapp2.1\p-06.runtimeconfig.dev.json
+D:\Project\Objects and Classes - Exercise\p-06\bin\Debug\netcoreapp2.1\p-06.dll
+D:\Project\Objects and Classes - Exercise\p-06\bin\Debug\netcoreapp2.1\p-06.pdb
+D:\Project\Objects and Classes - Exercise\p-06\obj\Debug\netcoreapp2.1\p-06.csprojAssemblyReference.cache
+D:\Project\Objects and Classes - Exercise\p-06\obj\Debug\netcoreapp2.1\p-06.csproj.CoreCompileInputs.cache
+D:\Project\Objects and Classes - Exercise\p-06\obj\Debug\netcoreapp2.1\p-06.AssemblyInfoInputs.cache
+D:\Project\Objects and Classes - Exercise\p-06\obj\Debug\netcoreapp2.1\p-06.AssemblyInfo.cs
+D:\Project\Objects and Classes - Exercise\p-06\obj\Debug\netcoreapp2.1\p-06.dll
+D:\Project\Objects and Classes - Exercise\p-06\obj\Debug\netcoreapp2.1\p-06.pdb

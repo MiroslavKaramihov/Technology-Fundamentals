@@ -1,0 +1,11 @@
+d:\Project\ObjectsAndClasses-LAB\p-07\bin\Debug\netcoreapp2.1\p-07.deps.json
+d:\Project\ObjectsAndClasses-LAB\p-07\bin\Debug\netcoreapp2.1\p-07.runtimeconfig.json
+d:\Project\ObjectsAndClasses-LAB\p-07\bin\Debug\netcoreapp2.1\p-07.runtimeconfig.dev.json
+d:\Project\ObjectsAndClasses-LAB\p-07\bin\Debug\netcoreapp2.1\p-07.dll
+d:\Project\ObjectsAndClasses-LAB\p-07\bin\Debug\netcoreapp2.1\p-07.pdb
+d:\Project\ObjectsAndClasses-LAB\p-07\obj\Debug\netcoreapp2.1\p-07.csprojAssemblyReference.cache
+d:\Project\ObjectsAndClasses-LAB\p-07\obj\Debug\netcoreapp2.1\p-07.csproj.CoreCompileInputs.cache
+d:\Project\ObjectsAndClasses-LAB\p-07\obj\Debug\netcoreapp2.1\p-07.AssemblyInfoInputs.cache
+d:\Project\ObjectsAndClasses-LAB\p-07\obj\Debug\netcoreapp2.1\p-07.AssemblyInfo.cs
+d:\Project\ObjectsAndClasses-LAB\p-07\obj\Debug\netcoreapp2.1\p-07.dll
+d:\Project\ObjectsAndClasses-LAB\p-07\obj\Debug\netcoreapp2.1\p-07.pdb
