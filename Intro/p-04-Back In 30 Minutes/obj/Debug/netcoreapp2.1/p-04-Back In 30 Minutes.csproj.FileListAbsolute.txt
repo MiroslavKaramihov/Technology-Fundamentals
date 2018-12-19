@@ -1,0 +1,11 @@
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\bin\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.deps.json
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\bin\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.runtimeconfig.json
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\bin\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.runtimeconfig.dev.json
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\bin\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.dll
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\bin\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.pdb
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\obj\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.csprojAssemblyReference.cache
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\obj\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.csproj.CoreCompileInputs.cache
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\obj\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.AssemblyInfoInputs.cache
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\obj\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.AssemblyInfo.cs
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\obj\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.dll
+d:\Project\Intro and Basic Syntax - Lab\p-04-Back In 30 Minutes\obj\Debug\netcoreapp2.1\p-04-Back In 30 Minutes.pdb

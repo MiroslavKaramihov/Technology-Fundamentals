@@ -1,0 +1,11 @@
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\bin\Debug\netcoreapp2.1\p-01-Student Information.deps.json
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\bin\Debug\netcoreapp2.1\p-01-Student Information.runtimeconfig.json
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\bin\Debug\netcoreapp2.1\p-01-Student Information.runtimeconfig.dev.json
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\bin\Debug\netcoreapp2.1\p-01-Student Information.dll
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\bin\Debug\netcoreapp2.1\p-01-Student Information.pdb
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\obj\Debug\netcoreapp2.1\p-01-Student Information.csprojAssemblyReference.cache
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\obj\Debug\netcoreapp2.1\p-01-Student Information.csproj.CoreCompileInputs.cache
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\obj\Debug\netcoreapp2.1\p-01-Student Information.AssemblyInfoInputs.cache
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\obj\Debug\netcoreapp2.1\p-01-Student Information.AssemblyInfo.cs
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\obj\Debug\netcoreapp2.1\p-01-Student Information.dll
+d:\Project\Intro and Basic Syntax - Lab\p-01-Student Information\obj\Debug\netcoreapp2.1\p-01-Student Information.pdb
