@@ -1,0 +1,11 @@
+D:\Project\RegeularExpetions-Exerseises\p-05\bin\Debug\netcoreapp2.1\p-05.deps.json
+D:\Project\RegeularExpetions-Exerseises\p-05\bin\Debug\netcoreapp2.1\p-05.runtimeconfig.json
+D:\Project\RegeularExpetions-Exerseises\p-05\bin\Debug\netcoreapp2.1\p-05.runtimeconfig.dev.json
+D:\Project\RegeularExpetions-Exerseises\p-05\bin\Debug\netcoreapp2.1\p-05.dll
+D:\Project\RegeularExpetions-Exerseises\p-05\bin\Debug\netcoreapp2.1\p-05.pdb
+D:\Project\RegeularExpetions-Exerseises\p-05\obj\Debug\netcoreapp2.1\p-05.csprojAssemblyReference.cache
+D:\Project\RegeularExpetions-Exerseises\p-05\obj\Debug\netcoreapp2.1\p-05.csproj.CoreCompileInputs.cache
+D:\Project\RegeularExpetions-Exerseises\p-05\obj\Debug\netcoreapp2.1\p-05.AssemblyInfoInputs.cache
+D:\Project\RegeularExpetions-Exerseises\p-05\obj\Debug\netcoreapp2.1\p-05.AssemblyInfo.cs
+D:\Project\RegeularExpetions-Exerseises\p-05\obj\Debug\netcoreapp2.1\p-05.dll
+D:\Project\RegeularExpetions-Exerseises\p-05\obj\Debug\netcoreapp2.1\p-05.pdb

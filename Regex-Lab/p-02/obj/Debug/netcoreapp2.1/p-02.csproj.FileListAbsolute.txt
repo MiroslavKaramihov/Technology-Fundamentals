@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Regex-Lab\p-02\bin\Debug\netcoreapp2.1\p-02.deps.json
+C:\Users\Acer\source\repos\Regex-Lab\p-02\bin\Debug\netcoreapp2.1\p-02.runtimeconfig.json
+C:\Users\Acer\source\repos\Regex-Lab\p-02\bin\Debug\netcoreapp2.1\p-02.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Regex-Lab\p-02\bin\Debug\netcoreapp2.1\p-02.dll
+C:\Users\Acer\source\repos\Regex-Lab\p-02\bin\Debug\netcoreapp2.1\p-02.pdb
+C:\Users\Acer\source\repos\Regex-Lab\p-02\obj\Debug\netcoreapp2.1\p-02.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Regex-Lab\p-02\obj\Debug\netcoreapp2.1\p-02.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Regex-Lab\p-02\obj\Debug\netcoreapp2.1\p-02.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Regex-Lab\p-02\obj\Debug\netcoreapp2.1\p-02.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Regex-Lab\p-02\obj\Debug\netcoreapp2.1\p-02.dll
+C:\Users\Acer\source\repos\Regex-Lab\p-02\obj\Debug\netcoreapp2.1\p-02.pdb
