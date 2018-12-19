@@ -1,0 +1,10 @@
+d:\Project\Methods-Exercises\p-06\bin\Debug\netcoreapp2.1\p-06.deps.json
+d:\Project\Methods-Exercises\p-06\bin\Debug\netcoreapp2.1\p-06.runtimeconfig.json
+d:\Project\Methods-Exercises\p-06\bin\Debug\netcoreapp2.1\p-06.runtimeconfig.dev.json
+d:\Project\Methods-Exercises\p-06\bin\Debug\netcoreapp2.1\p-06.dll
+d:\Project\Methods-Exercises\p-06\bin\Debug\netcoreapp2.1\p-06.pdb
+d:\Project\Methods-Exercises\p-06\obj\Debug\netcoreapp2.1\p-06.csproj.CoreCompileInputs.cache
+d:\Project\Methods-Exercises\p-06\obj\Debug\netcoreapp2.1\p-06.AssemblyInfoInputs.cache
+d:\Project\Methods-Exercises\p-06\obj\Debug\netcoreapp2.1\p-06.AssemblyInfo.cs
+d:\Project\Methods-Exercises\p-06\obj\Debug\netcoreapp2.1\p-06.dll
+d:\Project\Methods-Exercises\p-06\obj\Debug\netcoreapp2.1\p-06.pdb
