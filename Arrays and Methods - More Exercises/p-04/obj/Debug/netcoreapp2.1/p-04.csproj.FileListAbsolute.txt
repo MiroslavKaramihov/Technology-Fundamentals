@@ -1,0 +1,11 @@
+d:\Project\Arrays and Methods - More Exercises\p-04\bin\Debug\netcoreapp2.1\p-04.deps.json
+d:\Project\Arrays and Methods - More Exercises\p-04\bin\Debug\netcoreapp2.1\p-04.runtimeconfig.json
+d:\Project\Arrays and Methods - More Exercises\p-04\bin\Debug\netcoreapp2.1\p-04.runtimeconfig.dev.json
+d:\Project\Arrays and Methods - More Exercises\p-04\bin\Debug\netcoreapp2.1\p-04.dll
+d:\Project\Arrays and Methods - More Exercises\p-04\bin\Debug\netcoreapp2.1\p-04.pdb
+d:\Project\Arrays and Methods - More Exercises\p-04\obj\Debug\netcoreapp2.1\p-04.csproj.CoreCompileInputs.cache
+d:\Project\Arrays and Methods - More Exercises\p-04\obj\Debug\netcoreapp2.1\p-04.AssemblyInfoInputs.cache
+d:\Project\Arrays and Methods - More Exercises\p-04\obj\Debug\netcoreapp2.1\p-04.AssemblyInfo.cs
+d:\Project\Arrays and Methods - More Exercises\p-04\obj\Debug\netcoreapp2.1\p-04.dll
+d:\Project\Arrays and Methods - More Exercises\p-04\obj\Debug\netcoreapp2.1\p-04.pdb
+d:\Project\Arrays and Methods - More Exercises\p-04\obj\Debug\netcoreapp2.1\p-04.csprojAssemblyReference.cache

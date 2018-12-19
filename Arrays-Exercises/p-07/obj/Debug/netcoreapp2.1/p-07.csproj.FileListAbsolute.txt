@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Arrays-Exercises\p-07\bin\Debug\netcoreapp2.1\p-07.deps.json
+C:\Users\Acer\source\repos\Arrays-Exercises\p-07\bin\Debug\netcoreapp2.1\p-07.runtimeconfig.json
+C:\Users\Acer\source\repos\Arrays-Exercises\p-07\bin\Debug\netcoreapp2.1\p-07.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Arrays-Exercises\p-07\bin\Debug\netcoreapp2.1\p-07.dll
+C:\Users\Acer\source\repos\Arrays-Exercises\p-07\bin\Debug\netcoreapp2.1\p-07.pdb
+C:\Users\Acer\source\repos\Arrays-Exercises\p-07\obj\Debug\netcoreapp2.1\p-07.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Arrays-Exercises\p-07\obj\Debug\netcoreapp2.1\p-07.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Arrays-Exercises\p-07\obj\Debug\netcoreapp2.1\p-07.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Arrays-Exercises\p-07\obj\Debug\netcoreapp2.1\p-07.dll
+C:\Users\Acer\source\repos\Arrays-Exercises\p-07\obj\Debug\netcoreapp2.1\p-07.pdb
