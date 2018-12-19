@@ -1,0 +1,11 @@
+d:\Project\Data Types and Variables - Exercise\p-09\bin\Debug\netcoreapp2.1\p-09.deps.json
+d:\Project\Data Types and Variables - Exercise\p-09\bin\Debug\netcoreapp2.1\p-09.runtimeconfig.json
+d:\Project\Data Types and Variables - Exercise\p-09\bin\Debug\netcoreapp2.1\p-09.runtimeconfig.dev.json
+d:\Project\Data Types and Variables - Exercise\p-09\bin\Debug\netcoreapp2.1\p-09.dll
+d:\Project\Data Types and Variables - Exercise\p-09\bin\Debug\netcoreapp2.1\p-09.pdb
+d:\Project\Data Types and Variables - Exercise\p-09\obj\Debug\netcoreapp2.1\p-09.csprojAssemblyReference.cache
+d:\Project\Data Types and Variables - Exercise\p-09\obj\Debug\netcoreapp2.1\p-09.csproj.CoreCompileInputs.cache
+d:\Project\Data Types and Variables - Exercise\p-09\obj\Debug\netcoreapp2.1\p-09.AssemblyInfoInputs.cache
+d:\Project\Data Types and Variables - Exercise\p-09\obj\Debug\netcoreapp2.1\p-09.AssemblyInfo.cs
+d:\Project\Data Types and Variables - Exercise\p-09\obj\Debug\netcoreapp2.1\p-09.dll
+d:\Project\Data Types and Variables - Exercise\p-09\obj\Debug\netcoreapp2.1\p-09.pdb
