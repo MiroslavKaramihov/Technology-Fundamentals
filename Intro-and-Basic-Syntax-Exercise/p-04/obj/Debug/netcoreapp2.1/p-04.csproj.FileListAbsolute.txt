@@ -1,0 +1,10 @@
+d:\Project\Intro-and-Basic-Syntax-Exercise\p-04\bin\Debug\netcoreapp2.1\p-04.deps.json
+d:\Project\Intro-and-Basic-Syntax-Exercise\p-04\bin\Debug\netcoreapp2.1\p-04.runtimeconfig.json
+d:\Project\Intro-and-Basic-Syntax-Exercise\p-04\bin\Debug\netcoreapp2.1\p-04.runtimeconfig.dev.json
+d:\Project\Intro-and-Basic-Syntax-Exercise\p-04\bin\Debug\netcoreapp2.1\p-04.dll
+d:\Project\Intro-and-Basic-Syntax-Exercise\p-04\bin\Debug\netcoreapp2.1\p-04.pdb
+d:\Project\Intro-and-Basic-Syntax-Exercise\p-04\obj\Debug\netcoreapp2.1\p-04.csproj.CoreCompileInputs.cache
+d:\Project\Intro-and-Basic-Syntax-Exercise\p-04\obj\Debug\netcoreapp2.1\p-04.AssemblyInfoInputs.cache
+d:\Project\Intro-and-Basic-Syntax-Exercise\p-04\obj\Debug\netcoreapp2.1\p-04.AssemblyInfo.cs
+d:\Project\Intro-and-Basic-Syntax-Exercise\p-04\obj\Debug\netcoreapp2.1\p-04.dll
+d:\Project\Intro-and-Basic-Syntax-Exercise\p-04\obj\Debug\netcoreapp2.1\p-04.pdb
