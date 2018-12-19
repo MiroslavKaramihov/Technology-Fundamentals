@@ -1,0 +1,11 @@
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\bin\Debug\netcoreapp2.1\p-05.deps.json
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\bin\Debug\netcoreapp2.1\p-05.runtimeconfig.json
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\bin\Debug\netcoreapp2.1\p-05.runtimeconfig.dev.json
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\bin\Debug\netcoreapp2.1\p-05.dll
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\bin\Debug\netcoreapp2.1\p-05.pdb
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\obj\Debug\netcoreapp2.1\p-05.csproj.CoreCompileInputs.cache
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\obj\Debug\netcoreapp2.1\p-05.AssemblyInfoInputs.cache
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\obj\Debug\netcoreapp2.1\p-05.AssemblyInfo.cs
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\obj\Debug\netcoreapp2.1\p-05.dll
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\obj\Debug\netcoreapp2.1\p-05.pdb
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-05\obj\Debug\netcoreapp2.1\p-05.csprojAssemblyReference.cache

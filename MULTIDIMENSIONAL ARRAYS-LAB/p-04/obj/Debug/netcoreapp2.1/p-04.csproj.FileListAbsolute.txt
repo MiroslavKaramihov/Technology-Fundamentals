@@ -1,0 +1,10 @@
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-04\bin\Debug\netcoreapp2.1\p-04.deps.json
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-04\bin\Debug\netcoreapp2.1\p-04.runtimeconfig.json
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-04\bin\Debug\netcoreapp2.1\p-04.runtimeconfig.dev.json
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-04\bin\Debug\netcoreapp2.1\p-04.dll
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-04\bin\Debug\netcoreapp2.1\p-04.pdb
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-04\obj\Debug\netcoreapp2.1\p-04.csproj.CoreCompileInputs.cache
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-04\obj\Debug\netcoreapp2.1\p-04.AssemblyInfoInputs.cache
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-04\obj\Debug\netcoreapp2.1\p-04.AssemblyInfo.cs
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-04\obj\Debug\netcoreapp2.1\p-04.dll
+d:\Project\MULTIDIMENSIONAL ARRAYS-LAB\p-04\obj\Debug\netcoreapp2.1\p-04.pdb
