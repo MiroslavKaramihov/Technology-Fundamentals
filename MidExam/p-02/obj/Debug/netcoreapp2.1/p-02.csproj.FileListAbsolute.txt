@@ -1,0 +1,10 @@
+d:\Project\MidExam\p-02\bin\Debug\netcoreapp2.1\p-02.deps.json
+d:\Project\MidExam\p-02\bin\Debug\netcoreapp2.1\p-02.runtimeconfig.json
+d:\Project\MidExam\p-02\bin\Debug\netcoreapp2.1\p-02.runtimeconfig.dev.json
+d:\Project\MidExam\p-02\bin\Debug\netcoreapp2.1\p-02.dll
+d:\Project\MidExam\p-02\bin\Debug\netcoreapp2.1\p-02.pdb
+d:\Project\MidExam\p-02\obj\Debug\netcoreapp2.1\p-02.csproj.CoreCompileInputs.cache
+d:\Project\MidExam\p-02\obj\Debug\netcoreapp2.1\p-02.AssemblyInfoInputs.cache
+d:\Project\MidExam\p-02\obj\Debug\netcoreapp2.1\p-02.AssemblyInfo.cs
+d:\Project\MidExam\p-02\obj\Debug\netcoreapp2.1\p-02.dll
+d:\Project\MidExam\p-02\obj\Debug\netcoreapp2.1\p-02.pdb

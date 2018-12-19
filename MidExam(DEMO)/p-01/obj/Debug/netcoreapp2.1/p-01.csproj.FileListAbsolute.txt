@@ -1,0 +1,11 @@
+d:\Project\MidExam(DEMO)\p-01\bin\Debug\netcoreapp2.1\p-01.deps.json
+d:\Project\MidExam(DEMO)\p-01\bin\Debug\netcoreapp2.1\p-01.runtimeconfig.json
+d:\Project\MidExam(DEMO)\p-01\bin\Debug\netcoreapp2.1\p-01.runtimeconfig.dev.json
+d:\Project\MidExam(DEMO)\p-01\bin\Debug\netcoreapp2.1\p-01.dll
+d:\Project\MidExam(DEMO)\p-01\bin\Debug\netcoreapp2.1\p-01.pdb
+d:\Project\MidExam(DEMO)\p-01\obj\Debug\netcoreapp2.1\p-01.csprojAssemblyReference.cache
+d:\Project\MidExam(DEMO)\p-01\obj\Debug\netcoreapp2.1\p-01.csproj.CoreCompileInputs.cache
+d:\Project\MidExam(DEMO)\p-01\obj\Debug\netcoreapp2.1\p-01.AssemblyInfoInputs.cache
+d:\Project\MidExam(DEMO)\p-01\obj\Debug\netcoreapp2.1\p-01.AssemblyInfo.cs
+d:\Project\MidExam(DEMO)\p-01\obj\Debug\netcoreapp2.1\p-01.dll
+d:\Project\MidExam(DEMO)\p-01\obj\Debug\netcoreapp2.1\p-01.pdb
